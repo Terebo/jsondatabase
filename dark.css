@@ -1,0 +1,36 @@
+.header {
+	background-color: #292B2F;
+}
+
+html,
+    body {
+        background-color: #4e4e4e;
+    }
+	
+.slidearrow , #slideTXT {
+	color: #D8D8D8;
+}
+
+.slideloadtext {
+	color: #D8D8D8;
+}
+
+.MCright {
+	background-color: #7a7a7a;
+}
+
+.MCrightTXT, .MCleftTXT {
+	color: #D1DAD9;
+}
+
+.MCRbooknow {
+		text-decoration-color: #D8D8D8;
+}
+
+#MCTmaincontent {
+	background-color: #7a7a7a
+}
+
+.T1§1 {
+	color: #D1DAD9;
+}	

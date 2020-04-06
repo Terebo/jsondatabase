@@ -1,0 +1,24 @@
+{
+   "holldiays":[
+      {
+         "name":"The Østerstersøend",
+         "region":"South-Scandinavia",
+         "Duur":11
+      },
+	  {
+         "name":"forest and city",
+         "region":"Sweden",
+         "Duur":16
+      },
+	  {
+         "name":"Jutland",
+         "region":"Denmark",
+         "Duur":7
+      },
+	  {
+         "name":"Fjord viewing",
+         "region":"South-Norway",
+         "Duur":19
+      }
+   ]
+}

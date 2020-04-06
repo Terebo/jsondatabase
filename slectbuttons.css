@@ -1,0 +1,14 @@
+.selectbutton {
+	border-left: 1vw solid #ffe163;
+	background-color: #7a7a7a;
+	border-bottom: 0.1vh solid black;
+	border-top: 0.1vh solid black;
+	transition: all 0.5s;
+	margin-top: -1px;
+	margin-bottom: -1px;
+	position: relative;
+	cursor: pointer;
+}
+.selectbutton:hover {
+	border-left: 1vw solid #24b973 !important;
+}
